@@ -140,7 +140,7 @@ params:
         #  id: 
         # # CounterDev
         counterDev:
-          id: ae5202ea-3d8e-4ac2-9596-87cea61adcf
+          id: ae5202ea-3d8e-4ac2-9596-87cea61adcfc
         # # GoatCounter
         # goatCounter:
         #   code: <your goat counter code>
