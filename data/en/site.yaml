@@ -11,7 +11,7 @@ description: Portfolio and personal blog of Mustafa Bayar.
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Mustafa's Blog
+  title: Mustafa Bayar
   type: website
   description: Portfolio and personal blog of Mustafa Bayar.
   image: images/author/me.jpg
