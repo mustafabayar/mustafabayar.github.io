@@ -105,8 +105,17 @@ params:
     comment:
       enable: true
       services:
-        disqus:
-          shortName: mbcoder
+        giscus:
+          repo: mustafabayar/mustafabayar.github.io
+          repoID: R_kgDOLnaY2w
+          category: Announcements
+          categoryID: DIC_kwDOLnaY284CeWG6
+          theme: preferred_color_scheme
+          map: pathname
+          reaction: 1
+          metadata: 0
+          inputPosition: top
+          crossOrigin: anonymous
 
     # Enable Analytics
     analytics:
