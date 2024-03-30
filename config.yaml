@@ -86,16 +86,16 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
+        # facebook: true
         twitter: true
         linkedin: true
-        reddit: true
+        # reddit: true
         whatsapp: true
         email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
-        # mastodon: true
+        mastodon: true
 
     # Enable & configure "Notes" features
     notes:
@@ -107,29 +107,6 @@ params:
       services:
         disqus:
           shortName: mbcoder
-        # valine:
-        #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
-        #   appKey: pVrT3C85KGIuk27t07eh6bUC
-        #   avatar: retro
-        #   placeholder: Share your thought.
-        #   lang: en
-        #   recordIP: true
-        #   enableQQ: true
-        # giscus:
-        #   repo: your-repo/name
-        #   repoID: your-repo-id
-        #   category: your-category
-        #   categoryID: your-category-id
-          # theme: light
-          # map: url
-          # reaction: 1
-          # metadata: 0
-          # inputPosition: bottom
-          # crossOrigin: anonymous
-        # commento:
-        #   serverURL: cdn.commento.io
-        #   autoInit: true
-        #   hideDeleted: false
 
     # Enable Analytics
     analytics:
@@ -239,7 +216,7 @@ params:
     
         # Enable reading time support in post cards and in post pages
     readingTime:
-      enable: false
+      enable: true
     
     # Number of posts to show to each page. Default is "12"
     pagination:
