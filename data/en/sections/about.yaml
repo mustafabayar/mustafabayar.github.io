@@ -1,0 +1,43 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Delivery Hero
+  url: "https://www.deliveryhero.com"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am an experienced software engineer with a passion for creating innovative software solutions, continual learning, and effective collaboration.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mbcoders@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/mustafabayar"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mustafabayar/"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+#resourceLinks:
+#- title: "My Resume"
+#  url: "files/resume.pdf"

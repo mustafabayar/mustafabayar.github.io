@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Delivery Hero
+    url: "https://www.deliveryhero.com"
+    location: Berlin
+    logo: /images/sections/experiences/dh-logo.png
+    # darklogo: /images/sections/experiences/company1.jpg
+    overview: Delivery Hero is a multinational online food ordering and food delivery company.
+  positions:
+  - designation: Senior Software Engineer
+    start: May 2021
+    responsibilities:
+    - Contributed significantly towards the migration of our legacy PHP service to microservices written in Go, which scaled to handle over 50 million requests per day.
+    - Proactively identified and implemented strategies that reduced our cloud costs, resulting in savings around $20k per month.
+    - Mentored and  guided my colleagues and supported their growth and development by sharing expertise, providing support and leading by setting a  positive example.
+
+- company:
+    name: Uberall
+    url: "https://uberall.com/"
+    location: Berlin
+    logo: /images/sections/experiences/uberall-logo.png
+    overview: Multi-location marketing platform to help your brand show up and stand out when nearby customers search. Uberall drives engagement from discovery to purchase and beyond.
+  positions:
+  - designation: Software Engineer
+    start: Dec 2018
+    end: Apr 2021
+    responsibilities:
+    - Worked on Uberall’s location marketing cloud product that empowers companies to manage their online presence across search engines, maps, directories, apps, and voice assistants.
+    - Primarily involved in implementing and managing external API integrations including but not limited to Google My Business API.
+
+- company:
+    name: NETAŞ
+    url: "https://netas.com.tr/?lang=en"
+    location: Istanbul
+    logo: /images/sections/experiences/netas-logo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: Offering information and communication technologies for the benefit of private & public corporations, defence industry and end-users.
+  positions:
+  - designation: Software Engineer
+    start: Feb 2016
+    end: Nov 2018
+    responsibilities:
+    - Developed a Spring Boot application which has a JNI (Java Native Interface) to call C++ library written by our team and communicates with HSS(Home Subscriber Server) to retrieve subscriber information using Diameter protocol. 
+    - Implemented RADIUS/Diameter interworking gateway(translation agent) for Diameter-based 3GPP AAA Server which was mainly developed for EAP-SIM, EAP-AKA, and EAP-AKA'(AKA prime) authentication. Later I have implemented PEAPv0/MSCHAPv2 authentication capability to our AAA server.
+    - Implemented RADIUS & Diameter Protocol libraries and oneM2M protocol bindings ( HTTP, CoAP) for our multiprotocol test automation framework.
+  - designation: Intern
+    start: Jun 2015
+    end: Sep 2015
+    responsibilities:
+    - R&D

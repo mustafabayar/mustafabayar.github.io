@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Software Engineering
+  icon: fa-graduation-cap
+  timeframe: 2012-2016
+  institution:
+    name: Bahcesehir University
+    url: "https://www.bau.edu.tr"
+    logo: /images/sections/education/bau-logo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/university.jpg
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.28
+    outOf: 4
