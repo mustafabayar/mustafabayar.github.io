@@ -121,9 +121,6 @@ params:
     analytics:
       enabled: true
       services:
-        # # CounterDev
-        counterDev:
-          id: ae5202ea-3d8e-4ac2-9596-87cea61adcfc
         # # GoatCounter
         goatCounter:
           code: mbcoder
