@@ -13,7 +13,7 @@ experiences:
 - company:
     name: GitLab
     url: "https://about.gitlab.com"
-    location: Berlin
+    location: Berlin - Remote
     logo: /images/sections/experiences/gitlab-logo-black.png
     darklogo: /images/sections/experiences/gitlab-logo-white.png
     overview: GitLab is a single platform that integrates all the essential DevSecOps tools, from planning to production. It helps you automate, secure, and deploy your software faster and more efficiently.

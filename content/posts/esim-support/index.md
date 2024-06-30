@@ -31,7 +31,7 @@ There is already a company that tries to address this problem, "esim.me". They s
 {{< img src="esimme.jpeg" height="410" width="260"  title="esim.me is not supported" >}}
 </br>
 <blockquote>
-EDIT: With a new sotware update, my phone (Nothing Phone 2) now supports esim.me, but this tutorial is not Nothing phone specific, so if your phone is still not supported, it might still make sense to follow this tutorial.
+EDIT: With a new software update, my phone (Nothing Phone 2) now supports esim.me, but this tutorial is not Nothing phone specific, so if your phone is still not supported, it might still make sense to follow this tutorial.
 </blockquote>
 
 ### DIY path
