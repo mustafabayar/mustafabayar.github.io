@@ -11,15 +11,28 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: GitLab
+    url: "https://about.gitlab.com"
+    location: Berlin
+    logo: /images/sections/experiences/gitlab-logo-black.png
+    darklogo: /images/sections/experiences/gitlab-logo-white.png
+    overview: GitLab is a single platform that integrates all the essential DevSecOps tools, from planning to production. It helps you automate, secure, and deploy your software faster and more efficiently.
+  positions:
+  - designation: Software Engineer
+    start: July 2024
+    responsibilities:
+    - Working on the Gitaly team as a backend developer where we develop Git in accordance with the goals of the community and GitLab. The Gitaly team is responsible for building and maintaining systems to ensure that the Git data storage tier of GitLab instances is reliable, secure and fast.
+
+- company:
     name: Delivery Hero
     url: "https://www.deliveryhero.com"
     location: Berlin
     logo: /images/sections/experiences/dh-logo.png
-    # darklogo: /images/sections/experiences/company1.jpg
     overview: Delivery Hero is a multinational online food ordering and food delivery company.
   positions:
   - designation: Senior Software Engineer
     start: May 2021
+    end: June 2024
     responsibilities:
     - Contributed significantly towards the migration of our legacy PHP service to microservices written in Go, which scaled to handle over 50 million requests per day.
     - Proactively identified and implemented strategies that reduced our cloud costs, resulting in savings around $20k per month.

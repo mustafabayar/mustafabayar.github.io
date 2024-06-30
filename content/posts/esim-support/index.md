@@ -29,7 +29,10 @@ We mentioned eUICC (embedded Universal Integrated Circuit Card) above. Although,
 There is already a company that tries to address this problem, "esim.me". They sell a physical SIM card, which you can then use with their mobile app to manage and install eSIM profiles. But they still don't support all the devices and require the phone to be compatible. I assume this is because they still require operating system to support OMAPI (Open Mobile API).
 
 {{< img src="esimme.jpeg" height="410" width="260"  title="esim.me is not supported" >}}
-
+</br>
+<blockquote>
+EDIT: With a new sotware update, my phone (Nothing Phone 2) now supports esim.me, but this tutorial is not Nothing phone specific, so if your phone is still not supported, it might still make sense to follow this tutorial.
+</blockquote>
 
 ### DIY path
 

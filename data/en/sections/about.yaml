@@ -11,8 +11,8 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Delivery Hero
-  url: "https://www.deliveryhero.com"
+  name: GitLab
+  url: "https://about.gitlab.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -27,6 +27,10 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "mbcoders@gmail.com"
+
+- name: GitLab
+  icon: "fab fa-gitlab"
+  url: "https://gitlab.com/mbcoder"
 
 - name: Github
   icon: "fab fa-github"
